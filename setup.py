@@ -4,7 +4,7 @@ setup(
     name='clean_folder_mkv',
     version='1.0.0',
     description='Cleaning and sorting files in folder',
-    url='hhttps://github.com/djmary-k/clean_folder_mkv.git',
+    url='https://github.com/djmary-k/clean_folder_mkv',
     author='Maryna Kondratiuk',
     author_email='kondratyukmv@gmail.com',
     license='MIT',
